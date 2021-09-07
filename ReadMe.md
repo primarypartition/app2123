@@ -39,8 +39,15 @@
 > create-react-app . --typescript
 ```
 
-## NodeJs
+## NodeJS
 
 ```
+> tsc app.ts
+> node app.js
+> node app.ts
 
+> npm init
+> tsc --init
+> tsc -w
+> nodemon dist/app.js
 ```
