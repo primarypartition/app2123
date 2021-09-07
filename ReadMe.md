@@ -19,4 +19,28 @@
 ```
 > tsc --init
 > tsc
+> tsc -w
+```
+
+## Webpack
+
+```
+> webpack
+> webpack-dev-server
+> npm run start
+> npm run build
+> webpack --config prod.js
+```
+
+## React
+
+```
+> npx create-react-app . --typescript
+> create-react-app . --typescript
+```
+
+## NodeJs
+
+```
+
 ```
